@@ -1,0 +1,36 @@
+* {
+	box-sizing: border-box;
+	padding: 0;
+	margin: 0;
+}
+
+html {
+	width: 100vw;
+	height: 100vh;
+}
+
+body {
+	width: 100vw;
+	height: 100vh;
+}
+
+header {
+	background-color: #318a79;
+	height: 5vh;
+}
+
+footer {
+	background-color: #153630;
+	height: 5vh;
+}
+
+main {
+	padding: 3rem;
+	height: 90vh;
+	background-color: #dadada;
+}
+
+h1, h2, h3 {
+	padding-top: 1rem;
+	padding-bottom: 1rem;
+}
